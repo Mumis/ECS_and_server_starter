@@ -1,4 +1,4 @@
-# Three.js CES starter
+# Three.js ECS starter
 
 Kick of your three.js game with this boilerplate! It has everything you need to start working on your game without worrying about what happens in the backround, while also leaving room for improvements if needed.
 
