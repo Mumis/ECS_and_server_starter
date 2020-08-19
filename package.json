@@ -1,0 +1,22 @@
+{
+  "name": "three.js_multiplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "socket.io": "^2.3.0",
+    "three": "^0.119.1"
+  },
+  "devDependencies": {
+    "sass": "^1.26.10",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Emil Wertwein",
+  "license": "ISC"
+}
